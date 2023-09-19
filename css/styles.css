@@ -1,0 +1,146 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #FFF;
+    color: #2E2F42;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 1.5;
+        letter-spacing: 0.32px;
+   
+}
+.logo-web{
+    color: #4D5AE5;
+        font-family: Raleway;
+        font-size: 18px;
+        font-weight: 700;
+        font-style: normal;
+        line-height: 1.167;
+        letter-spacing: 0.54px;
+        text-transform: uppercase;
+        text-decoration: none;
+}
+.logo-studio{
+    color: #2E2F42;
+        font-family: Raleway;
+        font-size: 18px;
+        font-weight: 700;
+        line-height: 1.167;
+        letter-spacing: 0.54px;
+        text-transform: uppercase;
+        
+}
+.logo{
+text-decoration: none;
+}
+.nav-title{
+    color: #2E2F42;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.32px;
+    text-decoration: none;
+}
+.nav-title:active, 
+.address-text:active
+{
+    color: #404BBF;
+}
+.address-text{
+color: #434455;
+font-style: normal;
+    line-height: 1.5;
+    letter-spacing: 0.32px;
+    text-decoration: none;
+}
+
+
+.main-page{
+    text-align: center;
+    background-color: #2E2F42;
+}
+.main-page-title{
+    width: 496px;
+    color: #FFF;
+    text-align: center;
+    font-weight: 700;
+        font-size: 56px;
+        line-height: 1.071;
+        letter-spacing: 1.12px;
+}
+.button-order-serv{
+    color: #FFF;
+    font-family: Roboto;
+    font-style: normal;
+        font-size: 16px;
+        font-weight: 500;
+        line-height: 1.5;
+        letter-spacing: 0.64px;
+        border-radius: 4px;
+        cursor: pointer;
+            background: #4D5AE5;
+            box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+}
+.button-order-serv:hover{
+border-radius: 4px;
+background: #404BBF;
+box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
+}
+.paragraph-title {
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 1.2;
+    letter-spacing: 0.4px;
+}
+.paragraph-text {
+    color: #434455;
+}
+.our-team-section{
+    background: #F4F4FD;
+}
+.section-title{
+        text-align: center;
+        font-size: 36px;
+        font-weight: 700;
+        line-height: 1.111;
+        letter-spacing: 0.72px;
+        text-transform: capitalize;
+}
+.team-name{
+text-align: center;
+font-size: 20px;
+font-weight: 500;
+line-height: 1.2;
+letter-spacing: 0.4px;
+}
+.team-text{
+    color: #434455;
+    text-align: center;
+}
+li {
+    list-style: none;
+}
+.foot{
+    background: #2E2F42;
+    font-family: Raleway;
+    color: #F4F4FD;
+}
+.logo-studio-foot{
+color: #F4F4FD;
+
+font-size: 18px;
+font-style: normal;
+font-weight: 700;
+line-height: 1.167;
+letter-spacing: 0.54px;
+text-transform: uppercase;
+}
+.foot-text{
+font-family: Roboto;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.5;
+    letter-spacing: 0.32px;
+}
