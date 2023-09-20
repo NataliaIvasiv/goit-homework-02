@@ -35,16 +35,18 @@ text-decoration: none;
     text-decoration: none;
 }
 .nav-title:active, 
+.nav-title:focus,
+.nav-title:hover,
 .address-text:active,
 .address-text:hover,
-.address-text:active,
+.address-text:focus,
 .logo:focus,
 .logo:hover
 {
     color: #404BBF;
 }
 .address-text{
-
+color: #434455;
     line-height: 1.5;
     letter-spacing: 0.32px;
     text-decoration: none;
