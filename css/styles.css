@@ -71,7 +71,6 @@ text-decoration: none;
         font-weight: 500;
         line-height: 1.5;
         letter-spacing: 0.64px;
-        border-radius: 4px;
         cursor: pointer;
             background: #4D5AE5;
 }
@@ -105,14 +104,14 @@ background: #404BBF;
 }
 .team-name{
     color: #2E2F42;
-text-align: center;
+/text-align: center; 
 font-size: 20px;
 font-weight: 500;
 line-height: 1.2;
 letter-spacing: 0.4px;
 }
 .team-text{
-    text-align: center;
+     text-align: center;
 }
 .project-card{
     background-color: #FFFFFF;
@@ -130,7 +129,7 @@ li {
 color: #f4f4fd;
 }
 .foot-text{
-    color: #2E2F42;
+    color: #f4f4fd;
 font-family: Roboto,
     sans-serif;
     font-size: 16px;
